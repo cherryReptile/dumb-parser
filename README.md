@@ -1,2 +1,2 @@
 ## Описание
-`make init; make build; make up`
+`make init; make build; make exec -> composer install`
